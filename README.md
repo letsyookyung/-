@@ -1,8 +1,8 @@
-# :mag: 알고리즘 스터디
+# :mag: Algorithm study
 
-## :dart: 목표 
+## :dart: Objectives 
 - 알고리즘 책 끝내기
 - 개념 이해 및 leetcode 완료
 
-## :paperclip:목차
+## :paperclip: Contents
 1) 연결리스트
