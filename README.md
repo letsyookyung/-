@@ -7,5 +7,5 @@
 ## :paperclip: Contents
 1) 연결리스트
 
-dddd|dddd|ddd
+dddd|dddd|ddd  
 역순 연결 리스트|[]()|풀이
