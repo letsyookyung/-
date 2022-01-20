@@ -19,6 +19,8 @@
        => root.next
 
 
-
+### 1번째 
 ![내가 이해를 위해 그린 그림](/풀이/참고이미지/swarp_nodes_in_pairs_1.jpg)
+
+### 2번째 . . . 마지막
 ![내가 이해를 위해 그린 그림](/풀이/참고이미지/swarp_nodes_in_pairs_2.jpg)
