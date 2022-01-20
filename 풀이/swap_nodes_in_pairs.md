@@ -1,6 +1,4 @@
-class Solution:
-    def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        
+
         prev = ListNode(0) 
         root = prev 
         prev.next = head
@@ -18,7 +16,7 @@ class Solution:
             head = head.next
             prev = prev.next.next
                         
-        return root.next
+       => root.next
 
 
 
