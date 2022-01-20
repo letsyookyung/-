@@ -10,4 +10,4 @@
 | Content | 날짜  | 제목   | 문제 링크  | 코드   | 풀이   | 비고   |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 |연결 리스트 | 2022/01/12  | Add Two Numbers  | [문제 링크](https://leetcode.com/problems/add-two-numbers/) | [add_two_numbers.py](/LeetCode/add_two_numbers.py)|[풀이](/풀이/add_two_numbers)| 
-|연결 리스트 | 2022/01/18  | Swap Nodes in Pairs | [문제 링크](https://leetcode.com/problems/swap-nodes-in-pairs/) |[swap_nodes_in_pairs.py](/LeetCode/swap_nodes_in_pairs.py)|[풀이](풀이/swap_nodes_in_pairs)|
+| | 2022/01/18  | Swap Nodes in Pairs | [문제 링크](https://leetcode.com/problems/swap-nodes-in-pairs/) |[swap_nodes_in_pairs.py](/LeetCode/swap_nodes_in_pairs.py)|[풀이](풀이/swap_nodes_in_pairs)|
