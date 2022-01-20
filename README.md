@@ -9,5 +9,5 @@
 
 | 날짜  | 제목   | 코드   | 풀이   | 비고   |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-| 2022/01/12  | Add Two Numbers  | [add_two_numbers.py](/LeetCode/add_two_numbers.py)|[풀이](/풀이/add_two_numbers.md)| 역순 연결 리스트|
-| 2022/01/18  | Swap Nodes in Pairs|[swap_nodes_in_pairs.py](/LeetCode/swap_nodes_in_pairs.py)|[풀이](풀이/swap_nodes_in_pairs.md)| 연결 리스트 |
+| 2022/01/12  | Add Two Numbers  | [add_two_numbers.py](/LeetCode/add_two_numbers.py)|[풀이](/풀이/add_two_numbers)| 역순 연결 리스트|
+| 2022/01/18  | Swap Nodes in Pairs|[swap_nodes_in_pairs.py](/LeetCode/swap_nodes_in_pairs.py)|[풀이](풀이/swap_nodes_in_pairs)| 연결 리스트 |
