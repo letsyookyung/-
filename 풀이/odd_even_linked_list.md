@@ -1,17 +1,19 @@
         odd_result = ListNode()
 <span style="color:yellow">#odd_result 위치를 옮겨줄 odd 필요</span>
+
         odd = odd_result 
 
         even_result = ListNode()
-<span style="color:yellow">#even_result 위치를 옮겨줄 odd 필요</span>
+<span style="color:yellow">#even_result 위치를 옮겨줄 even 필요</span>
+
         even = even_result 
-
-
 
 
 
         i=1
         while head:
+        
+        
             if i%2!=0: #head의 홀수 번의 value를 뽑아 잇는 listnode 생성
                 odd.next = ListNode(head.val)
                 odd = odd.next 
