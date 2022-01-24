@@ -1,8 +1,14 @@
         odd_result = ListNode()
-        odd = odd_result <span style="color:yellow">#odd_result 위치를 옮겨줄 odd 필요</span>
+<span style="color:yellow">#odd_result 위치를 옮겨줄 odd 필요</span>
+        odd = odd_result 
 
         even_result = ListNode()
-        even = even_result #even_result 위치를 옮겨줄 odd 필요
+<span style="color:yellow">#even_result 위치를 옮겨줄 odd 필요</span>
+        even = even_result 
+
+
+
+
 
         i=1
         while head:
