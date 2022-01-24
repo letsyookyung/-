@@ -1,11 +1,13 @@
 
 :bulb:odd_result/even_result 위치를 옮겨줄 odd/even 필요
+
         odd_result = ListNode()
         odd = odd_result 
         even_result = ListNode()
         even = even_result 
         
 :bulb:head의 홀수/짝수 번의 value를 뽑아 잇는 listnode 생성
+
          i=1
         while head:
             if i%2!=0:
