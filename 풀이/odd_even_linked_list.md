@@ -1,5 +1,5 @@
         odd_result = ListNode()
-        odd = odd_result #odd_result 위치를 옮겨줄 odd 필요
+        odd = odd_result <span style="color:yellow">#odd_result 위치를 옮겨줄 odd 필요</span>
 
         even_result = ListNode()
         even = even_result #even_result 위치를 옮겨줄 odd 필요
