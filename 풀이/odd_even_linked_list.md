@@ -1,7 +1,7 @@
-        odd_result = ListNode()
+'''odd_result = ListNode()
 :memo:odd_result 위치를 옮겨줄 odd 필요</span>
 
-        odd = odd_result 
+'''odd = odd_result 
 
         even_result = ListNode()
 #even_result 위치를 옮겨줄 even 필요</span>
