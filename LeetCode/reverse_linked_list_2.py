@@ -1,9 +1,9 @@
+# 혼자 해본 방법
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-# 혼자 해본 방법
 class Solution:
     def reverseBetween(self, head: Optional[ListNode], left: int, right: int) -> Optional[ListNode]:
             
@@ -71,12 +71,7 @@ def toListNode(for_reverse):
 
     
     
-    
-    
-    
-    
-    
-# 배운 좋은 방법! 
+# 좋은 방법! 
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
