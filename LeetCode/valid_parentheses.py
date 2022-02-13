@@ -1,3 +1,6 @@
+class Solution:
+    def isValid(self, s: str) -> bool:
+        
         s_list = list(s)
         brackets = { ')':'(',
                       '}':'{', 
