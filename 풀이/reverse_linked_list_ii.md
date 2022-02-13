@@ -18,10 +18,10 @@
 
 ![내가 이해를 위해 그린 그림](/풀이/참고이미지/reversed_list2_2.jpg)
 
-.
-.
-.
-(right-left) 횟수 만큼 loop
+# .  
+# .  
+# .  
+# (right-left) 횟수 만큼 loop  
 
         root = start니깐, 
         return root.next 
