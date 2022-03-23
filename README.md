@@ -16,4 +16,5 @@
 | :pushpin:스택, 큐 | 2022/01/31  |  Valid parentheses | [:pencil2:](https://leetcode.com/problems/valid-parentheses/) | [valid_parentheses.py](/LeetCode/valid_parentheses.py)|[풀이](/풀이/valid_parentheses.md)| 
 | | 2022/02/10  |  Remove duplicate letters | [:pencil2:](https://leetcode.com/problems/remove-duplicate-letters/) | [remove_duplicate_letters.py](/LeetCode/add_two_numbers.py)|[풀이](/풀이/remove_duplicate_letters.md)| 
 | | 2022/02/10  |  Daily temperatures | [:pencil2:](https://leetcode.com/problems/daily-temperatures/) | [daily-temperatures.py](/LeetCode/daily_temperatures.py)|[풀이](/풀이/daily_temperatures.md)| 
-| | 2022/03/23  | Design Circular Queue | [:pencil2:](https://leetcode.com/problems/design-circular-queue/) | [design-circular-queue.py](/LeetCode/design-circular-queue.py)|[풀이](/풀이/design_circular_queue.md)| 
+| | 2022/03/20  | Design Circular Queue | [:pencil2:](https://leetcode.com/problems/design-circular-queue/) | [design-circular-queue.py](/LeetCode/design-circular-queue.py)|[풀이](/풀이/design_circular_queue.md)| 
+| :pushpin:데크, 우선 순위 큐 | 2022/03/20  | Design Circular Deque | [:pencil2:](https://leetcode.com/problems/design-circular-deque/) | [design-circular-deque.py] |[풀이](/풀이/design-circular-deque.md)| 
