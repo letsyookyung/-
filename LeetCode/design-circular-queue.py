@@ -58,7 +58,7 @@ class MyCircularQueue:
         check whether the circular queue is full or not.
         """
         # p1,p2가 가르키는 자리가 같고, 그 안의 요소가 존재하지 않는다면 큐는 empty
-        if self.p1 == self.p2 and self.q[self.p1] is None :
+        if self.p1 == self.p2 and self.q[self.p1] == None :
             return "empty"
         
 
@@ -67,7 +67,7 @@ class MyCircularQueue:
         check whether the circular queue is full or not.
         """
         # p1, p2가 가르키는 자리가 같고, 그 안의 요소가 존재하면 공간이 다 찬것입니다.
-        if self.p1 == self.p2 and self.q[self.p1] is Not None :
+        if self.p1 == self.p2 and self.q[self.p1] != None :
             return "full"
         
 
