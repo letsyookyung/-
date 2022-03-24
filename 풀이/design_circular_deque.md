@@ -26,9 +26,8 @@
         Delete an item from the front of Deque. return true if the operation is successful.
         """
         if not self.isEmpty():
-            # 빨간색
             head_right = self.head.right.right # head <-> head.right <-> head.right.right
-            # 파란색
+            # 빨간색, 파란색
             head_right.left, self.head.right = self.head, head_right # head <-> head.right.right
             self.cur_size -=1
             return True
