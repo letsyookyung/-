@@ -35,10 +35,10 @@
 
 
 ### 본래 node
-![내가 이해를 위해 그린 그림](/풀이/참고이미지/original_node.png)
+![내가 이해를 위해 그린 그림](/풀이/참고이미지/original_node.PNG)
 
 ### insertFront
-![내가 이해를 위해 그린 그림](/풀이/참고이미지/insert_front.png)
+![내가 이해를 위해 그린 그림](/풀이/참고이미지/insert_front.PNG)
 
 
 
