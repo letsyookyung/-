@@ -18,3 +18,4 @@
 | | 2022/02/10  |  Daily Temperatures | [:pencil2:](https://leetcode.com/problems/daily-temperatures/) | [daily-temperatures.py](/LeetCode/daily_temperatures.py)|[풀이](/풀이/daily_temperatures.md)| 
 | | 2022/03/20  | Design Circular Queue | [:pencil2:](https://leetcode.com/problems/design-circular-queue/) | [design-circular-queue.py](/LeetCode/design-circular-queue.py)|[풀이](/풀이/design_circular_queue.md)| 
 | :pushpin:데크, 우선 순위 큐 | 2022/03/20  | Design Circular Deque | [:pencil2:](https://leetcode.com/problems/design-circular-deque/) | [design-circular-deque.py](/LeetCode/design-circular-deque.py) |[풀이](/풀이/design_circular_deque.md)| 
+| :pushpin:해시 테이블 | 2022/04/04  | Jewels and Stones | [:pencil2:](https://leetcode.com/problems/jewels-and-stones/) | [jewels-and-stones.py](/LeetCode/jewels-and-stones.py) |[풀이](/풀이/jewels_and_stones.md)| 
