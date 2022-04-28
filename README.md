@@ -20,15 +20,6 @@
 | :pushpin: 데크, 우선 순위 큐 | 2022/03/20  | Design Circular Deque | [:pencil2:](https://leetcode.com/problems/design-circular-deque/) | [design-circular-deque.py](/LeetCode/design-circular-deque.py) |[풀이](/풀이/design_circular_deque.md)| 
 | :pushpin: 해시 테이블 | 2022/04/04  | Jewels and Stones | [:pencil2:](https://leetcode.com/problems/jewels-and-stones/) | [jewels-and-stones.py](/LeetCode/jewels-and-stones.py) |[풀이](/풀이/jewels_and_stones.md)| 
 |  | 2022/04/04  | Longest Substring Without Repeating Characters | [:pencil2:](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [longest-substring-without-repeating-characters.py](/LeetCode/longest-substring-without-repeating-characters.py) |[풀이](/풀이/longest_substring_without_repeating_characters.md)| 
-
-
-                                 
-                          ,🌵-.   ,--.🎩'),-----.  9🧢'),-----   ,--. ,-💌-. ,--.   ,--.,--. ,-🌵.,--.  ,--,,,-🌹. 
-                           \  `.'  /( OO'  .-.  '( OO'  .-.  '   |  .'   / \  `.'   / |  | |  ||   \ |  |/  /--\  \
-                         .-')     / /   |  | |  |/   |  | |  |   |      /,.-')     /  |  | |  ||    \|  ||  |   `--' 
-                        (OO  \   /  \_) |  |\|  |\_ )|  |\|  |(OO|  9 ' _)   \    /   |  | |  ||  OO.   ||  |   ,--.  
-                         |   /  /\_   \ |  | |  |  \ |  | |  |   |  .   \ `   /  / ,.'|  | |  ||  |\    |\  \  /|  |  
-                         `-./  /.__)   `'  '-'  '   `'  '-'  '   |  |\   \.  /  / '   |  | |  ||  | \   | \    /|  |
-                            `--'         `-----'      `-----'    `--' '--'  `--'   '  `-----' `--'  `--'  `---' `-'  
+| 📌 DFS/BFS | Combinations | [:pencil2:](https://leetcode.com/problems/combinations/) | [combinations.py](/LeetCode/combinations.py) |[풀이](/풀이/combinations.md)|
 
 
