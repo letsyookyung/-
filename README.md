@@ -22,5 +22,6 @@
 |  | 2022/04/04  | Longest Substring Without Repeating Characters | [:pencil2:](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [longest-substring-without-repeating-characters.py](/LeetCode/longest-substring-without-repeating-characters.py) |[풀이](/풀이/longest_substring_without_repeating_characters.md)| 
 | 📌 DFS/BFS | 2022/04/28 | Combinations | [:pencil2:](https://leetcode.com/problems/combinations/) | [combinations.py](/LeetCode/combinations.py) |[풀이](/풀이/combinations.md)|
 |  | 2022/04/28    | Combinations-sum    | [:pencil2:](https://leetcode.com/problems/combination-sum/) | [combinations-sum.py](/LeetCode/combinations-sum.py) |[풀이](/풀이/combinations-sum.md)|
-
+|  | 2022/05/06    | Subsets    | [:pencil2:](https://leetcode.com/problems/subsets/) | [subsets.py](/LeetCode/subsets.py) |[풀이](/풀이/subsets.md)|
+|  | 2022/05/06    | Reconstruct Itinerary   | [:pencil2:](https://leetcode.com/problems/reconstruct-itinerary/) | [reconstruct-itinerary.py](/LeetCode/reconstruct-itinerary.py) |[풀이](/풀이/reconstruct-itinerary.md)|
 
