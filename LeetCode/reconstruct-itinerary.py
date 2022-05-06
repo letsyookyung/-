@@ -21,7 +21,7 @@ class Solution:
 
 
 
-
+Runtime: 42 ms 
 defaultdict(<class 'list'>, {'ATL': ['JFK', 'SFO'], 'JFK': ['ATL', 'SFO'], 'SFO': ['ATL']})
 []
 SFO
