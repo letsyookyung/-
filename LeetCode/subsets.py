@@ -28,7 +28,7 @@ class Solution:
         
         return result
 
-    
+Runtime: 35 ms    
 0 []
 0 [1]
 1 [1]
