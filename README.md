@@ -27,4 +27,8 @@
 |  | 2022/05/15    | Course Schedule   | [:pencil2:](https://leetcode.com/problems/course-schedule/) | [course-schedule.py](/LeetCode/course-schedule.py) |[풀이](/풀이/course-schedule.md)|
 | 📌 다익스트라 | 2022/5/15 | Network Delay Time | [:pencil2:](https://leetcode.com/problems/network-delay-time/) | [network-delay-time.py](/LeetCode/network-delay-time.py) |[풀이](/풀이/network-delay-time.md)|
 |  | 2022/05/27 | Cheapest Flights Within K Stops   | [:pencil2:](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [cheapest-flights-within-k-stops.py](/LeetCode/cheapest-flights-within-k-stops.py) |[풀이](/풀이/cheapest-flights-within-k-stops.md)| 
+| 📌 트리 | 2022/5/27 | Maximum Depth of Binary Tree | [:pencil2:](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [maximum-depth-of-binary-tree.py](/LeetCode/maximum-depth-of-binary-tree.py) |[풀이](/풀이/maximum-depth-of-binary-tree.md)|
+| | 2022/06/09 | Diameter of Binary Tree | [:pencil2:](https://leetcode.com/problems/diameter-of-binary-tree/) | [diameter-of-binary-tree.py](/LeetCode/diameter-of-binary-tree.py) |[풀이](/풀이/diameter-of-binary-tree.md)|
+| | 2022/06/09 | Longest Univalue Path | [:pencil2:](https://leetcode.com/problems/longest-univalue-path/) | [longest-univalue-path.py](/LeetCode/longest-univalue-path.py) |[풀이](/풀이/longest-univalue-path.md)|
+
 
