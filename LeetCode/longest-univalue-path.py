@@ -3,29 +3,29 @@ class Solution:
     def longestUnivaluePath(self, root: Optional[TreeNode]) -> int:
         
         def dfs(node):
-            nonlocal ans
+            nonlocal max_path
             
             if not node :
                 return 0
             
-            left = dfs(node.left)
+            left_depth = dfs(node.left)
             if node.left and node.left.val == node.val :
-                left+=1
+                left_depth+=1
             else :
-                left=0
+                left_depth=0
                 
-            right = dfs(node.right)
+            right_depth = dfs(node.right)
             if node.right and node.right.val == node.val :
-                right +=1
+                right_depth +=1
             else :
-                right = 0
+                right_depth = 0
                 
-            ans = max(ans, left+right)
+            max_path = max(max_path, left_depth+right_depth)
             
-            return max(left, right)
+            return max(left_depth, right_depth)
     
-        ans=0
+        max_path=0
         
         dfs(root)
         
-        return ans
+        return max_path
